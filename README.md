@@ -45,7 +45,7 @@
 
 **Languages**: Python · C
 **ML / NLP**: PyTorch · Transformers · LangChain · sentence-transformers · scikit-learn
-**LLM**: Prompt Engineering · RAG · fine-tuing · LoRA
+**LLM**: Prompt Engineering · RAG · fine-tuning · LoRA
 **Data**: pandas · numpy · matplotlib · MediaPipe
 **Tools**: Streamlit · Jupyter · Git
 
