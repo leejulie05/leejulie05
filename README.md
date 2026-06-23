@@ -33,11 +33,9 @@
 
 `Qwen3-14B` `jina-embeddings-v3` `RAG` `Korean NLP` `On-Premise LLM`
 
-### 🎵 [Gugak × Modern Music](https://github.com/leejulie05/Gugak-Modern-Music-data-mining-project)
-국악의 정서적 밀도를 *Soul Score = sigimsae_count / duration* 메트릭으로 정의.
-멜론 차트 25,696곡과 비교해 정서적으로 가장 국악스러운 K-pop 가수·곡 도출.
+###  [KoMED — Korean Medical CoT Distillation & Counterfactual Faithfulness Filter](https://github.com/AITEAM444/KoMEDMCQA_CoT)
+DeepSeek-R1 교사로 KorMedMCQA train 에 long-CoT(reasoning) trace 를 생성하고, **반사실 추론 충실성 필터(Inverse-MATCHA)**로 "답을 바꿔도 똑같이 그럴듯하게 정당화하는 사후합리화 CoT"를 걸러낸 뒤 Qwen3-8B student(LoRA)를 학습·평가
 
-`Data Mining` `Sentiment Analysis` `Custom Metric Design` `Korean Traditional Music`
 
 ---
 
